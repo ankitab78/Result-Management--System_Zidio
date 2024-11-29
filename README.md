@@ -8,10 +8,7 @@ Seamlessly track attendance, assess performance, and provide feedback. <br>
 Access records, view marks, and communicate effortlessly.
 </h3>
 
-<br>
-[Youtube Video](https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC)
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
+
 
 # About
 
@@ -59,7 +56,7 @@ Inside it write this :
 ```sh
 MONGO_URL = mongodb://127.0.0.1/school
 ```
-If you are using MongoDB Compass you can use this database link but if you are using MongoDB Atlas then instead of this link write your own database link.
+
 
 Terminal 2: Setting Up Frontend
 ```sh
